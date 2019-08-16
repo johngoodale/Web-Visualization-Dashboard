@@ -2,7 +2,7 @@
 Unit 11 | Assignment - Web Visualization Dashboard (Latitude)
 
 Web-Visualization-Dashboard
-https://johngoodale.github.io-Web-Visualization-Dashboard
+https://johngoodale.github.io/Web-Visualization-Dashboard
 
 Latitude Analysis Dashboard
 
